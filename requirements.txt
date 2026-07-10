@@ -1,0 +1,19 @@
+# Core numerical libraries
+numpy>=2.3.0
+scipy>=1.16.0
+matplotlib>=3.10.0
+
+# Machine Learning
+keras>=3.13.0
+jax>=0.7.0
+jaxlib>=0.7.0
+
+# Simulation-Based Inference
+bayesflow>=2.0.12
+
+# Gravitational Wave Simulation
+pycbc>=2.11.0
+lalsuite>=7.26
+
+# Utilities
+h5py>=3.16.0
